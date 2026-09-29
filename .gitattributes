@@ -1,0 +1,12 @@
+# Fin de linea UNIX en todas partes.
+#
+# Sin esto, git convierte LF a CRLF al clonar en Windows y las huellas de
+# SHA256SUMS.txt dejan de coincidir: quien las comprueba cree que la descarga
+# esta corrupta cuando no lo esta. Comprobado.
+* text=auto eol=lf
+
+# Binarios: no se tocan.
+*.pdf binary
+*.png binary
+*.jpg binary
+*.zip binary

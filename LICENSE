@@ -1,0 +1,45 @@
+MIT License
+
+Copyright (c) 2026 Fran G. (@soyfrangs)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+SCOPE OF THIS LICENSE
+
+The MIT license above applies to the SOURCE CODE and SCRIPTS in this
+repository (the .ps1 scripts and any code files).
+
+The DOCUMENTATION — the manual, the prompts, the exercise, the templates and
+the project rules — is (c) 2026 Fran G. and is shared for personal use:
+you may use and adapt it for yourself, but not resell it or redistribute it
+as your own product.
+
+NOT FINANCIAL ADVICE
+
+This project reads a chart and describes what it sees. It does not provide
+investment advice, recommendations, signals, price targets or risk management.
+All decisions are the user's own.
+
+TRADEMARKS
+
+TradingView(R) is a trademark of TradingView Inc. Claude(R) is a trademark of
+Anthropic PBC. This project is not affiliated with, endorsed by, or associated
+with either company.

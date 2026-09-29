@@ -1,0 +1,27 @@
+# ─── el conector se descarga, no se versiona ─────────────────────────────────
+tradingview-mcp/
+node_modules/
+
+# ─── lo que genera cada usuario ──────────────────────────────────────────────
+proyecto/fichas/*
+!proyecto/fichas/.gitkeep
+*.log
+
+# ─── nada personal, nunca ────────────────────────────────────────────────────
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+credenciales*
+secretos*
+token*
+
+# ─── configuración local de la máquina ───────────────────────────────────────
+.mcp.local.json
+.claude/settings.local.json
+
+# ─── sistema ─────────────────────────────────────────────────────────────────
+Thumbs.db
+desktop.ini
+.DS_Store
